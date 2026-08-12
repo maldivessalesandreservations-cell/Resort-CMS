@@ -5,4 +5,4 @@ export default function Home() {
       <p>Homepage is working!</p>
     </div>
   );
-}git add . && git commit -m "Trigger new build" && git push origin main
+}
